@@ -1,5 +1,6 @@
 baseurl = "http://example.com/"
 theme = "hugo-geo"
+themesdir = "../.."
 relativeURLs = false
 languageCode = "en-us"
 title = "My New Hugo Site"
@@ -15,26 +16,29 @@ paginate = 5
 
 	favicon = "favicon.ico"
 	
-	analytics = "<script async src='https://www.googletagmanager.com/gtag/js?id=UA-159475896-1'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-159475896-1');</script>"
+	analytics = "code-here"
 
-	email = "sergio7sjs@gmail.com"
+	email = "alexurquhart@gmail.com"
 
-    urlprofilepic = "https://avatars2.githubusercontent.com/u/2502244"
+	profilepic = "img/profile.png"
 	
-	title = "Sérgio José de Sousa"
-	subtitle = "Portfólio"
+	title = "MY NAME"
+	subtitle = "MY HUGO BLOG"
 
 	# Social buttons for sidebar
 	# Each of these are optional
 	[[params.socialbuttons]]
 	faicon = "github"
-	url = "https://github.com/sergiosjs"
+	url = "https://github.com/alexurquhart"
 	[[params.socialbuttons]]
 	faicon = "twitter"
-	url = "https://twitter.com/sergiosjs"
+	url = "https://twitter.com/alexanderurq"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
-	url = "https://linkedin.com/in/sergiosjs/"
+	url = "https://linkedin.com"
+	[[params.socialbuttons]]
+	faicon = "google-plus"
+	url = "https://plus.google.com/+YourID"
 
 	[[params.navlinks]]
 	name = "About"
