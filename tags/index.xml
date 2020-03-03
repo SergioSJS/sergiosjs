@@ -6,64 +6,10 @@
     <description>Recent content in Tags on Sérgio - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://sergiosjs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Docker</title>
-      <link>https://sergiosjs.github.io/tags/docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://sergiosjs.github.io/tags/java/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://sergiosjs.github.io/tags/javascript/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSON</title>
-      <link>https://sergiosjs.github.io/tags/json/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>node.js</title>
-      <link>https://sergiosjs.github.io/tags/node.js/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/node.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST APIs</title>
-      <link>https://sergiosjs.github.io/tags/rest-apis/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/rest-apis/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Atlassian Ecosystem</title>
@@ -93,6 +39,15 @@
     </item>
     
     <item>
+      <title>Java</title>
+      <link>https://sergiosjs.github.io/tags/java/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>monit</title>
       <link>https://sergiosjs.github.io/tags/monit/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
@@ -107,6 +62,15 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://sergiosjs.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST APIs</title>
+      <link>https://sergiosjs.github.io/tags/rest-apis/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/rest-apis/</guid>
       <description></description>
     </item>
     
@@ -246,20 +210,29 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>https://sergiosjs.github.io/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://sergiosjs.github.io/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JIRA</title>
       <link>https://sergiosjs.github.io/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergiosjs.github.io/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jQuery</title>
-      <link>https://sergiosjs.github.io/tags/jquery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     
