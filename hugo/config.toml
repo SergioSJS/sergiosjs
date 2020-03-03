@@ -17,7 +17,7 @@ enableGitInfo = false
 	profileImage = "https://avatars2.githubusercontent.com/u/2502244"	
 	
 	showEducation = true
-	showExperience = false
+	showExperience = true
 	showOpenSource = false
 	showProjects = false
 	showPublications = false

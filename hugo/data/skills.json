@@ -32,9 +32,6 @@
     ]
   },
   {
-
-  },
-  {
     "grouping":"Databases and Data Managements",
     "skills":[      
       {"name":"MySQL","icon":"mysql"},

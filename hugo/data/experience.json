@@ -1,20 +1,26 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Gerente de Desenvolvimento",
+        "company":"Mais Soluções Desenvolvimento de Sistemas",
+        "summary":"Gerenciamento e analises de tarefas, planejamento e desenvolvimento de projetos industriais, comerciais, sites, banco de dados incluindo gerenciamento dos dados.",
+        "range":"10/2013 - 07/2017"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Desenvolvedor",
+        "company":"Mais Soluções Desenvolvimento de Sistemas",
+        "summary":"Desenvolvimento em Delphi com MySLQ e Firebird para sistema ERP.",
+        "range":"02/2012 - 10/2013"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Suporte Técnico",
+        "company":"Mais Soluções Desenvolvimento de Sistemas",
+        "summary":"Atendimento de suporte técnico em ERP incluindo implantação de sistema.",
+        "range":"05/2011 - 02/2012"
+    },
+    {
+        "role":"Auxiliar de Projetos Eletrotécnicos",
+        "company":"Eletromuniz",
+        "summary":"Desenvolver, construir e implantar projetos elétricos industriais, incluindo programação de PLCs e supervisórios.",
+        "range":"01/2010 - 04/2011"
     }
 ]

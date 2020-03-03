@@ -33,5 +33,15 @@
                 "Modelos de Ranqueamento (2019)"
             ]
         }
+    },
+    {
+        "school":"Faculdade Pitágoras",
+        "degree":"Bacharelado em Sistemas de Informação",
+        "range":"2010 - 2014"
+    },
+    {
+        "school":"SENAI",
+        "degree":"Técnico em Eletroeletrônica",
+        "range":"2009 - 2010"
     }
 ]
