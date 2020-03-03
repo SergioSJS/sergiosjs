@@ -1,0 +1,63 @@
+[
+  {
+    "grouping":"Languages, Operating Systems",
+    "skills":[
+      {"name":"Python","icon":"Python"},
+      {"name":"R","icon":"r-project"},
+      {"name":"C#","icon":"visualstudio"},
+      {"name":"Delphi","icon":"delphi"},
+      {"name":"javascript","icon":"javascript"},
+      {"name":"PHP","icon":"php"},
+      {"name":"Java","icon":"java"},
+      {"name":"Linux","icon":"linux"}]
+  },
+  {
+    "grouping":"Libraries and tools",
+    "skills":[      
+      {"name":"numpy","icon":"Python"},
+      {"name":"pandas","icon":"Python"},
+      {"name":"plotly","icon":"Python"},
+      {"name":"matplotlib","icon":"Python"},
+      {"name":"seaborn","icon":"Python"},
+      {"name":"scikit","icon":"Python"},
+      {"name":"tensorflow","icon":"Python"},
+      {"name":"keras","icon":"Python"},
+      {"name":"pytorch","icon":"Python"},
+      {"name":"pyspark","icon":"Python"},
+      {"name":"geopandas","icon":"Python"},
+      {"name":"nodejs","icon":"nodejs"},
+      {"name":"angular","icon":"angular"},
+      {"name":"jquery","icon":"javascript"},
+      {"name":"git","icon":"git"}
+    ]
+  },
+  {
+
+  },
+  {
+    "grouping":"Databases and Data Managements",
+    "skills":[      
+      {"name":"MySQL","icon":"mysql"},
+      {"name":"Firebird","icon":"database"},
+      {"name":"Microsoft SQL Server","icon":"database"},
+      {"name":"Oracle","icon":"database"},
+      {"name":"MongoDB","icon":"mongodb"},
+      {"name":"Elasticsearch","icon":"streamline"},
+      {"name":"Apache Spark","icon":"streamline"}
+    ]
+},
+  {
+    "grouping":"Containers & Cloud",
+    "skills":[
+      {"name":"Docker","link":"https://docker.com"},
+      {"name":"Heroku","link":"https://heroku.com"}
+    ]
+  },
+  {
+    "grouping":"Methodologies and Frameworks of Software development",
+    "skills":[
+      {"name":"Scrum","icon":"scrum"},
+      {"name":"XP","icon":"scrum"}
+    ]
+  }
+]
