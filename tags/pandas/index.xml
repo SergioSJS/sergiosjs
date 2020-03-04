@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pandas on Sérgio - Portfolio</title>
+    <link>https://sergiosjs.github.io/tags/pandas/</link>
+    <description>Recent content in pandas on Sérgio - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Feb 2020 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://sergiosjs.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>wiki4HE Exploration, Machine Learning and Storytelling</title>
+      <link>https://sergiosjs.github.io/projects/creations/ds_wiki4he/</link>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/creations/ds_wiki4he/</guid>
+      <description>Wiki4HE is a database containing a questionnaire that was applied to teachers with topics regarding their perception of Wikipedia as a tool for other collaborators and students.
+Objective of this work:
+ Basic statistics on participating teachers Analysis of different user groups for the items “Perceived Enjoyment” ENJ1 and ENJ2 Other interesting analyzes Create a model capable of predicting whether or not a teacher recommends using Wikipedia for his students  </description>
+    </item>
+    
+    <item>
+      <title>Exploration of Brazilian federal travel data</title>
+      <link>https://sergiosjs.github.io/projects/creations/ds_travel_br_2019/</link>
+      <pubDate>Tue, 04 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/creations/ds_travel_br_2019/</guid>
+      <description>This dataset contain four data files:
+ Payment (Pagamento): with list of realized payments Ticket (Passagem): purchased tickets Stretch (Trecho): The stretches of the travel Travel (Viagem): Travel itself  In this first part, a descriptive analysis of the data set Travel is performed, grouping the data by various attributes and plotting some graphs.</description>
+    </item>
+    
+    <item>
+      <title>Pokeanalysis and Predicting Legendaries</title>
+      <link>https://sergiosjs.github.io/projects/creations/ds_poke/</link>
+      <pubDate>Wed, 15 Jan 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/creations/ds_poke/</guid>
+      <description>This dataset consist a 721 pokemons of the 1 to 6 Generations, including several features like stats, types, catch rate, if the pokemon is legendary and others, totaling 21 variables. With him we will try to answer the fallowing questions:
+ How the amount of pokemons is distributed per generation? Is there missing data in this dataset? Is there any relationship between the type of pokemon and it&amp;rsquo;s color? Which pokemons have the highest attributes values?</description>
+    </item>
+    
+  </channel>
+</rss>

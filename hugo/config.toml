@@ -13,16 +13,18 @@ enableGitInfo = false
 	favicon = "/favicon.ico"
 	firstName = "Sérgio"
 	lastName = "José de Sousa"
+	year = "2020"
 	phone = "+55 31-99337-1926"
 	profileImage = "https://avatars2.githubusercontent.com/u/2502244"	
 	
 	showEducation = true
 	showExperience = true
 	showOpenSource = false
-	showProjects = false
+	showProjects = true
 	showPublications = false
 	showQr = false
 	showSkills = true
+	customCss = false
 
 [params.google]
 [params.google.analytics]

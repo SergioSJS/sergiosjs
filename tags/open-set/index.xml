@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-set on Sérgio - Portfolio</title>
+    <link>https://sergiosjs.github.io/tags/open-set/</link>
+    <description>Recent content in open-set on Sérgio - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2017 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://sergiosjs.github.io/tags/open-set/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Survey: Open-set Classification</title>
+      <link>https://sergiosjs.github.io/projects/creations/ds_openset/</link>
+      <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/creations/ds_openset/</guid>
+      <description>Classification is a important field of study in Machine Learning area. Traditional algorithms relay on closed-set scenarios, where the label classes are known in prior. Thus, in real world we eventually deal with unknown instances of data. To treat unseen instances in a proper way, a approach called Openset classification was developed. This paper briefly surveys some of the recent works in Open-set Classification.</description>
+    </item>
+    
+  </channel>
+</rss>

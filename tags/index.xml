@@ -6,71 +6,107 @@
     <description>Recent content in Tags on Sérgio - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://sergiosjs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://sergiosjs.github.io/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>analysis</title>
+      <link>https://sergiosjs.github.io/tags/analysis/</link>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/tags/atlassian-ecosystem/</guid>
+      <guid>https://sergiosjs.github.io/tags/analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BOSH</title>
-      <link>https://sergiosjs.github.io/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>jupyter notebook</title>
+      <link>https://sergiosjs.github.io/tags/jupyter-notebook/</link>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/tags/bosh/</guid>
+      <guid>https://sergiosjs.github.io/tags/jupyter-notebook/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>https://sergiosjs.github.io/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>Machine Learning</title>
+      <link>https://sergiosjs.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/tags/devops/</guid>
+      <guid>https://sergiosjs.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Java</title>
-      <link>https://sergiosjs.github.io/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>pandas</title>
+      <link>https://sergiosjs.github.io/tags/pandas/</link>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/tags/java/</guid>
+      <guid>https://sergiosjs.github.io/tags/pandas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>monit</title>
-      <link>https://sergiosjs.github.io/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>plotly</title>
+      <link>https://sergiosjs.github.io/tags/plotly/</link>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/tags/monit/</guid>
+      <guid>https://sergiosjs.github.io/tags/plotly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
       <link>https://sergiosjs.github.io/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
       
       <guid>https://sergiosjs.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>REST APIs</title>
-      <link>https://sergiosjs.github.io/tags/rest-apis/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>sklearn</title>
+      <link>https://sergiosjs.github.io/tags/sklearn/</link>
+      <pubDate>Mon, 17 Feb 2020 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/tags/rest-apis/</guid>
+      <guid>https://sergiosjs.github.io/tags/sklearn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://sergiosjs.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keras</title>
+      <link>https://sergiosjs.github.io/tags/keras/</link>
+      <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-set</title>
+      <link>https://sergiosjs.github.io/tags/open-set/</link>
+      <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/open-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theano</title>
+      <link>https://sergiosjs.github.io/tags/theano/</link>
+      <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/theano/</guid>
       <description></description>
     </item>
     
@@ -111,83 +147,11 @@
     </item>
     
     <item>
-      <title>apache</title>
-      <link>https://sergiosjs.github.io/tags/apache/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <title>DevOps</title>
+      <link>https://sergiosjs.github.io/tags/devops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sergiosjs.github.io/tags/apache/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>redirect</title>
-      <link>https://sergiosjs.github.io/tags/redirect/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/redirect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rewrite</title>
-      <link>https://sergiosjs.github.io/tags/rewrite/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/rewrite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssl</title>
-      <link>https://sergiosjs.github.io/tags/ssl/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/ssl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web development</title>
-      <link>https://sergiosjs.github.io/tags/web-development/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/web-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://sergiosjs.github.io/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bamboo</title>
-      <link>https://sergiosjs.github.io/tags/bamboo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bash/shell</title>
-      <link>https://sergiosjs.github.io/tags/bash/shell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>https://sergiosjs.github.io/tags/bitbucket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/bitbucket/</guid>
+      <guid>https://sergiosjs.github.io/tags/devops/</guid>
       <description></description>
     </item>
     
@@ -197,69 +161,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergiosjs.github.io/tags/ci/cd-pipelines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://sergiosjs.github.io/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/confluence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://sergiosjs.github.io/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>https://sergiosjs.github.io/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JIRA</title>
-      <link>https://sergiosjs.github.io/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maven</title>
-      <link>https://sergiosjs.github.io/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>https://sergiosjs.github.io/tags/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xml/xslt</title>
-      <link>https://sergiosjs.github.io/tags/xml/xslt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/xml/xslt/</guid>
       <description></description>
     </item>
     
