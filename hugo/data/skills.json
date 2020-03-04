@@ -46,8 +46,7 @@
   {
     "grouping":"Containers & Cloud",
     "skills":[
-      {"name":"Docker","link":"https://docker.com"},
-      {"name":"Heroku","link":"https://heroku.com"}
+      {"name":"Docker","link":"https://docker.com"}
     ]
   },
   {

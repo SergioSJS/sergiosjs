@@ -75,9 +75,36 @@
     </item>
     
     <item>
+      <title>IRACE</title>
+      <link>https://sergiosjs.github.io/tags/irace/</link>
+      <pubDate>Sun, 18 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/irace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://sergiosjs.github.io/tags/r/</link>
+      <pubDate>Sun, 18 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numpy</title>
+      <link>https://sergiosjs.github.io/tags/numpy/</link>
+      <pubDate>Sat, 17 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>deep-learning</title>
       <link>https://sergiosjs.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 11 Jul 2018 12:41:05 -0500</pubDate>
       
       <guid>https://sergiosjs.github.io/tags/deep-learning/</guid>
       <description></description>
@@ -86,9 +113,45 @@
     <item>
       <title>keras</title>
       <link>https://sergiosjs.github.io/tags/keras/</link>
-      <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 11 Jul 2018 12:41:05 -0500</pubDate>
       
       <guid>https://sergiosjs.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>q-learning</title>
+      <link>https://sergiosjs.github.io/tags/q-learning/</link>
+      <pubDate>Wed, 11 Jul 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/q-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement learning</title>
+      <link>https://sergiosjs.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Wed, 11 Jul 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://sergiosjs.github.io/tags/tensorflow/</link>
+      <pubDate>Wed, 11 Jul 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adaboost</title>
+      <link>https://sergiosjs.github.io/tags/adaboost/</link>
+      <pubDate>Tue, 10 Jul 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/tags/adaboost/</guid>
       <description></description>
     </item>
     
@@ -107,60 +170,6 @@
       <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
       
       <guid>https://sergiosjs.github.io/tags/theano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agile</title>
-      <link>https://sergiosjs.github.io/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://sergiosjs.github.io/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration</title>
-      <link>https://sergiosjs.github.io/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://sergiosjs.github.io/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://sergiosjs.github.io/tags/devops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD pipelines</title>
-      <link>https://sergiosjs.github.io/tags/ci/cd-pipelines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sergiosjs.github.io/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     

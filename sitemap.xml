@@ -3,21 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sergiosjs.github.io/publications/</loc>
-    <lastmod>2020-01-07T16:47:30+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/projects/creations/</loc>
+    <loc>https://sergiosjs.github.io/projects/data_science/</loc>
     <lastmod>2020-01-07T15:00:28+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sergiosjs.github.io/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://sergiosjs.github.io/projects/others/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -67,18 +61,93 @@
   </url>
   
   <url>
-    <loc>https://sergiosjs.github.io/projects/creations/ds_wiki4he/</loc>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_wiki4he/</loc>
     <lastmod>2020-02-17T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sergiosjs.github.io/projects/creations/ds_travel_br_2019/</loc>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_travel_br_2019/</loc>
     <lastmod>2020-02-04T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sergiosjs.github.io/projects/creations/ds_poke/</loc>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_poke/</loc>
     <lastmod>2020-01-15T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/irace/</loc>
+    <lastmod>2018-11-18T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/r/</loc>
+    <lastmod>2018-11-18T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/projects/others/irace/</loc>
+    <lastmod>2018-11-18T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/projects/others/heuristics/</loc>
+    <lastmod>2018-11-17T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/numpy/</loc>
+    <lastmod>2018-11-17T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/deep-learning/</loc>
+    <lastmod>2018-07-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/keras/</loc>
+    <lastmod>2018-07-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/q-learning/</loc>
+    <lastmod>2018-07-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_rl/</loc>
+    <lastmod>2018-07-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2018-07-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/tensorflow/</loc>
+    <lastmod>2018-07-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/tags/adaboost/</loc>
+    <lastmod>2018-07-10T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_adaboost/</loc>
+    <lastmod>2018-07-10T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_keras_mnist/</loc>
+    <lastmod>2018-05-24T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sergiosjs.github.io/projects/others/best_path/</loc>
+    <lastmod>2018-05-24T12:41:05-05:00</lastmod>
   </url>
   
   <url>
@@ -88,62 +157,23 @@
   </url>
   
   <url>
-    <loc>https://sergiosjs.github.io/tags/deep-learning/</loc>
-    <lastmod>2017-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/tags/keras/</loc>
-    <lastmod>2017-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sergiosjs.github.io/tags/open-set/</loc>
     <lastmod>2017-11-15T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sergiosjs.github.io/projects/creations/ds_openset/</loc>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_openset/</loc>
     <lastmod>2017-11-15T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sergiosjs.github.io/projects/creations/ds_food_rep/</loc>
+    <loc>https://sergiosjs.github.io/projects/data_science/ds_food_rep/</loc>
     <lastmod>2017-11-15T12:41:05-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sergiosjs.github.io/tags/theano/</loc>
     <lastmod>2017-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/tags/devops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sergiosjs.github.io/tags/ci/cd-pipelines/</loc>
   </url>
   
   <url>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adaboost on Sérgio - Portfolio</title>
+    <link>https://sergiosjs.github.io/tags/adaboost/</link>
+    <description>Recent content in adaboost on Sérgio - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://sergiosjs.github.io/tags/adaboost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaboost with numpy</title>
+      <link>https://sergiosjs.github.io/projects/data_science/ds_adaboost/</link>
+      <pubDate>Tue, 10 Jul 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/data_science/ds_adaboost/</guid>
+      <description>This simple model has only one hyperparameter, the number of weak models, therefore, the greater the quantity, better the nidek or better rule. The algorithm automatically checks and selects the best rules with the best accuracy. After that, it performs the evaluation of the alpha, fallowed by change the weights of the data, increasing the weights of wrong classified data. This process repeat until the hyperparameter value. A important observation, how after each rule the data distribuction change, the algorithm can be select the same rules but with different values of alpha and weights.</description>
+    </item>
+    
+  </channel>
+</rss>

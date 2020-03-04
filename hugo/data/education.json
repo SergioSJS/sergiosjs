@@ -43,5 +43,13 @@
         "school":"SENAI",
         "degree":"Técnico em Eletroeletrônica",
         "range":"2009 - 2010"
+    },
+    {
+        "school":"Outros Cursos",
+        "notes":[
+            "UFMG - Curso de extensão: \n- Hands-on Deep Learning (2018) \n- C++ Moderno (2017)",
+            "Udemy: \n- [Data Science: do Dado à Tomada de Decisão (2016)](http://ude.my/UC-QIPFLLQB/) \n- [Big Data - Processamento de dados com Spark e PySpark (2019)](http://ude.my/UC-8S24C38G/) \n- [Recommender Systems and Deep Learning in Python (2020)](http://ude.my/UC-8a1a9583-6299-4a0f-b9af-01b16e44dac2/)",
+            "IV Workshop de Ciência de Dados, Big Data e Analytics (2020): \n- Palestras relacionadas ao tema \n- [Machine Learning para detecção de sentimentos em Português](http://www.workshopbigdata.com.br/certificados/wcdbda2019/oficinas/R6KW-GH-65GH.pdf) \n- [Modelagem Preditiva End-toEnd: Do dataset à entrega de serviços](http://www.workshopbigdata.com.br/certificados/wcdbda2019/oficinas/R6KW-GH-6XAF.pdf)"
+        ]        
     }
 ]

@@ -13,10 +13,10 @@
     
     <item>
       <title>Technical Report: Exploiting Deep-Features Diversity in Food-11 Classification</title>
-      <link>https://sergiosjs.github.io/projects/creations/ds_food_rep/</link>
+      <link>https://sergiosjs.github.io/projects/data_science/ds_food_rep/</link>
       <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/projects/creations/ds_food_rep/</guid>
+      <guid>https://sergiosjs.github.io/projects/data_science/ds_food_rep/</guid>
       <description>The best deep representation level is the FC2 deep-feature, contain the most relevant features to classify. Early fusion and Late fusion can&amp;rsquo;t better than only FC2 deep feature. Lastly the Bagging approach achieved the best results of all experiments executed.
 The domain of food is hard to classify, even for humans. This happens due to similarity between food made with the same ingredients wich belongs to different classes. Even so the deep feature FC2 showed up a good option and the Bagging technique is the best model.</description>
     </item>

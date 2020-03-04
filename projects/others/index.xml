@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Sérgio - Portfolio</title>
+    <link>https://sergiosjs.github.io/projects/others/</link>
+    <description>Recent content in Others on Sérgio - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://sergiosjs.github.io/projects/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Running IRACE with python</title>
+      <link>https://sergiosjs.github.io/projects/others/irace/</link>
+      <pubDate>Sun, 18 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/others/irace/</guid>
+      <description>A pack to run IRACE with python.
+IRACE: Iterated Racing for Automatic Algorithm Configuration
+Iterated race is an extension of the Iterated F-race method for the automatic configuration of optimization algorithms, that is, (offline) tuning their parameters by finding the most appropriate settings given a set of instances of an optimization problem.</description>
+    </item>
+    
+    <item>
+      <title>Computational heuristics</title>
+      <link>https://sergiosjs.github.io/projects/others/heuristics/</link>
+      <pubDate>Sat, 17 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/others/heuristics/</guid>
+      <description>Python version of Heuristic techniques for solving the Traveling Salesman Problem.
+ Hill Climbing Iterated Local Search (ILS) Greedy Randomized Adaptive Search Procedure (Grasp) Tabu Search Genetic Algorithm  </description>
+    </item>
+    
+    <item>
+      <title>Maze Best Path</title>
+      <link>https://sergiosjs.github.io/projects/others/best_path/</link>
+      <pubDate>Thu, 24 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/others/best_path/</guid>
+      <description>Several state-space search algorithms applied to solve maze problems:
+ A* Uniform Cost Search Best First Search Iterative Deepining Search Depth Limited Search Deep First Search Breadth First Search  </description>
+    </item>
+    
+  </channel>
+</rss>

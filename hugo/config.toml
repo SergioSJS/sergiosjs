@@ -19,7 +19,7 @@ enableGitInfo = false
 	
 	showEducation = true
 	showExperience = true
-	showOpenSource = false
+	showOpenSource = true
 	showProjects = true
 	showPublications = false
 	showQr = false

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IRACE on Sérgio - Portfolio</title>
+    <link>https://sergiosjs.github.io/tags/irace/</link>
+    <description>Recent content in IRACE on Sérgio - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Nov 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://sergiosjs.github.io/tags/irace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Running IRACE with python</title>
+      <link>https://sergiosjs.github.io/projects/others/irace/</link>
+      <pubDate>Sun, 18 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://sergiosjs.github.io/projects/others/irace/</guid>
+      <description>A pack to run IRACE with python.
+IRACE: Iterated Racing for Automatic Algorithm Configuration
+Iterated race is an extension of the Iterated F-race method for the automatic configuration of optimization algorithms, that is, (offline) tuning their parameters by finding the most appropriate settings given a set of instances of an optimization problem.</description>
+    </item>
+    
+  </channel>
+</rss>

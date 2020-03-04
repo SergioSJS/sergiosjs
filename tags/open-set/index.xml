@@ -13,10 +13,10 @@
     
     <item>
       <title>Survey: Open-set Classification</title>
-      <link>https://sergiosjs.github.io/projects/creations/ds_openset/</link>
+      <link>https://sergiosjs.github.io/projects/data_science/ds_openset/</link>
       <pubDate>Wed, 15 Nov 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://sergiosjs.github.io/projects/creations/ds_openset/</guid>
+      <guid>https://sergiosjs.github.io/projects/data_science/ds_openset/</guid>
       <description>Classification is a important field of study in Machine Learning area. Traditional algorithms relay on closed-set scenarios, where the label classes are known in prior. Thus, in real world we eventually deal with unknown instances of data. To treat unseen instances in a proper way, a approach called Openset classification was developed. This paper briefly surveys some of the recent works in Open-set Classification.</description>
     </item>
     
