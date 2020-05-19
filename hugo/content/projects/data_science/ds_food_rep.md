@@ -2,7 +2,7 @@
   "title": "Technical Report: Exploiting Deep-Features Diversity in Food-11 Classification",
   "date": "2017-11-15T12:41:05-05:00",
   "image": "/img/food.jpg",
-  "link": "https://github.com/SergioSJS/data_science_portfolio/tree/master/pokemon-data-analysing",
+  "link": "https://github.com/SergioSJS/Food11_Tech_Report",
   "description": "In this report, we evaluate how useful deep-features are for traditional machine learning models in food image domain",
   "tags": ["python","analysis", "Machine Learning", "jupyter notebook", "sklearn", "deep-learning", "keras", "theano"],
   "fact": "",
